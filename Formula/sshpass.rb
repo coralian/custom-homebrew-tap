@@ -1,4 +1,5 @@
 # from: https://raw.githubusercontent.com/eugeneoden/homebrew/eca9de1/Library/Formula/sshpass.rb
+# from: https://github.com/subchen/homebrew-tap
 
 class Sshpass < Formula
   url 'http://sourceforge.net/projects/sshpass/files/sshpass/1.06/sshpass-1.06.tar.gz'
