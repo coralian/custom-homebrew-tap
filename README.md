@@ -11,7 +11,7 @@ Tools of macOS Homebrew Packages
 First, add this tap to your Homebrew
 
 ```
-brew tap subchen/tap
+brew tap coralian/tap
 ```
 
 Now you will be able to install tools from this tap:
