@@ -17,6 +17,11 @@ brew tap subchen/tap
 Now you will be able to install tools from this tap:
 
 ```
-brew install frep
+brew install sshpass
 ```
 
+or curl the raw file, save to a file and install that way
+
+```
+curl -L https://raw.githubusercontent.com/coralian/custom-homebrew-tap/master/Formula/sshpass.rb > sshpass.rb && brew install sshpass.rb && rm sshpass.rb
+```
