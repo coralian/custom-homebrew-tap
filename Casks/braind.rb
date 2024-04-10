@@ -4,7 +4,7 @@ cask "braind" do
 
   url "https://acroname.com/sites/default/files/software/braind/#{version}/BrainD-#{version}-mac.dmg"
   name "BrainD"
-  desc "Software for Acroname products"
+  desc "BrainD server software for Acroname products"
   homepage "https://acroname.com/software/braind"
 
   app "BrainD.app"
