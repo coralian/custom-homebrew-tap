@@ -10,8 +10,4 @@ cask "braind" do
   app "BrainD.app"
 
   uninstall delete: "/Applications/BrainD.app"
-
-  test do
-    system_command "#{appdir}/BrainD.app/Contents/MacOS/BrainD", args: ["--version"]
-  end
 end
